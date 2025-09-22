@@ -1,0 +1,36 @@
+import axios from 'axios';
+
+const API_BASE_URL = 'http://localhost:8000/api/v1';
+
+const api = axios.create({
+  baseURL: API_BASE_URL,
+  headers: {
+    'Content-Type': 'application/json',
+  },
+});
+
+// Add auth token to requests
+api.interceptors.request.use((config) => {
+  const token = localStorage.getItem('accessToken');
+  if (token) {
+    config.headers.Authorization = `Bearer ${token}`;
+  }
+  return config;
+});
+
+export const seedTransactions = async (forceReseed = false) => {
+  const response = await api.post('/seed/transactions', { forceReseed });
+  return response.data;
+};
+
+export const getTransactions = async (params?: any) => {
+  const response = await api.get('/transaction', { params });
+  return response.data;
+};
+
+export const getAnalytics = async () => {
+  const response = await api.get('/analytics');
+  return response.data;
+};
+
+export default api;

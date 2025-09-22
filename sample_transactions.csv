@@ -1,0 +1,21 @@
+title,amount,category,type,date,status,paymentMethod,description
+Salary Credit,100000,Salary,INCOME,2024-01-01,COMPLETED,BANK_TRANSFER,Monthly salary
+Rent Payment,25000,Housing,EXPENSE,2024-01-02,COMPLETED,BANK_TRANSFER,Monthly rent
+Grocery Shopping,8500,Food,EXPENSE,2024-01-03,COMPLETED,DEBIT_CARD,Weekly groceries from supermarket
+Electricity Bill,2500,Utilities,EXPENSE,2024-01-05,COMPLETED,ONLINE,Monthly electricity bill
+Internet Bill,1200,Utilities,EXPENSE,2024-01-05,COMPLETED,ONLINE,Broadband internet
+Mobile Recharge,599,Utilities,EXPENSE,2024-01-06,COMPLETED,ONLINE,Monthly mobile plan
+Fuel,3000,Transportation,EXPENSE,2024-01-07,COMPLETED,DEBIT_CARD,Petrol for car
+Restaurant Dinner,2500,Food,EXPENSE,2024-01-08,COMPLETED,CREDIT_CARD,Family dinner
+Medical Checkup,5000,Healthcare,EXPENSE,2024-01-10,COMPLETED,CASH,Annual health checkup
+Movie Tickets,1200,Entertainment,EXPENSE,2024-01-12,COMPLETED,CREDIT_CARD,Weekend movie
+Clothing Shopping,4500,Shopping,EXPENSE,2024-01-15,COMPLETED,CREDIT_CARD,New clothes
+Insurance Premium,8000,Insurance,EXPENSE,2024-01-16,COMPLETED,BANK_TRANSFER,Life insurance
+Gym Membership,2000,Healthcare,EXPENSE,2024-01-18,COMPLETED,DEBIT_CARD,Monthly gym fees
+Online Shopping,3200,Shopping,EXPENSE,2024-01-20,COMPLETED,CREDIT_CARD,Electronics accessories
+Freelance Income,15000,Freelance,INCOME,2024-01-22,COMPLETED,BANK_TRANSFER,Side project payment
+Vegetables,800,Food,EXPENSE,2024-01-23,COMPLETED,CASH,Fresh vegetables
+Auto Rickshaw,150,Transportation,EXPENSE,2024-01-24,COMPLETED,CASH,Local transport
+Coffee Shop,450,Food,EXPENSE,2024-01-25,COMPLETED,DEBIT_CARD,Morning coffee
+Book Purchase,1200,Education,EXPENSE,2024-01-26,COMPLETED,ONLINE,Technical books
+Mutual Fund SIP,10000,Investment,EXPENSE,2024-01-28,COMPLETED,BANK_TRANSFER,Monthly SIP investment
