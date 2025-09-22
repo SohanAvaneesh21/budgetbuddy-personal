@@ -1,6 +1,6 @@
 # BudgetBuddy - AI-Powered Personal Finance Management Platform
 
-![BudgetBuddy Logo](https://img.shields.io/badge/BudgetBuddy-AI%20Finance%20Platform-yellow?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZENzAwIi8+Cjx0ZXh0IHg9IjEyIiB5PSIxNiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjgiIGZpbGw9IiMwMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiPuKCuTwvdGV4dD4KPHN2Zz4K)
+
 
 A comprehensive MERN stack-based personal finance management platform that leverages artificial intelligence to provide intelligent financial insights, automated expense tracking, and personalized financial recommendations powered by Google's Gemini API.
 
@@ -111,16 +111,6 @@ A comprehensive MERN stack-based personal finance management platform that lever
    - Frontend: http://localhost:5173
    - Backend API: http://localhost:8000
 
-## 📱 Application Screenshots
-
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=BudgetBuddy+Dashboard)
-
-### AI Financial Health Analysis
-![AI Health](https://via.placeholder.com/800x400/10B981/FFFFFF?text=AI+Financial+Health+Dashboard)
-
-### Transaction Management
-![Transactions](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Transaction+Management)
 
 ## 🎯 Key AI Features
 
@@ -169,13 +159,7 @@ The application includes a comprehensive seeding system with realistic transacti
 - Multi-level caching strategies
 - CDN integration for static assets
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -188,18 +172,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Recharts** for powerful data visualization
 - **MongoDB** for flexible data storage
 
-## 📞 Support
-
-For support, email support@budgetbuddy.com or join our Slack channel.
-
-## 🔗 Links
-
-- **Live Demo**: [Coming Soon]
-- **Documentation**: [Wiki](https://github.com/yourusername/budgetbuddy/wiki)
-- **API Documentation**: [Postman Collection](https://documenter.getpostman.com/view/your-collection)
-
----
-
-**Made with ❤️ by [Your Name]**
-
-*Transform your financial future with AI-powered insights!*
